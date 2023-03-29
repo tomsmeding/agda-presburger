@@ -1,3 +1,4 @@
+{-# OPTIONS -W ignore #-}
 module Normalization.Negation-prop where
 
 open import Representation
